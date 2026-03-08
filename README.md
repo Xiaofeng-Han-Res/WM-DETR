@@ -22,8 +22,7 @@ This repository presents **WM-DETR**, a robust underwater object detection frame
 ## 1. Dataset Preparation
 
 ### Download Dataset
-
-**（1）DUO** ([GitHub](https://github.com/chongweiliu/DUO))
+#### (1) DUO dataset (https://github.com/chongweiliu/DUO)
 - Additional benchmark: **RUOD**
 
 ### Dataset Structure
