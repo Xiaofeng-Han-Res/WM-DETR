@@ -66,7 +66,6 @@ names: ['holothurian', 'boat', 'echinus', 'starfish', 'fish', 'corals', 'diver',
 
 You can download the pretrained weight file **`rtdetr-r50.pt`** from Baidu Netdisk:
 
-- **File**: `rtdetr-r50.pt`
 - **Link**: [https://pan.baidu.com/s/1-yge3B-41eaUIiQOyxs0FQ](https://pan.baidu.com/s/1-yge3B-41eaUIiQOyxs0FQ)
 - **Extraction Code**: `PKGR`
 
