@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 [![Last Commit](https://img.shields.io/badge/last%20commit-March%202026-yellowgreen)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-orange)]()
-[![Forks](https://img.shields.io/github/forks/Xiaofeng-Han-Res/WM-DETR?style=social)]()
 
 
 </div>
