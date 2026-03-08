@@ -7,7 +7,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-orange)]()
 [![Forks](https://img.shields.io/github/forks/Xiaofeng-Han-Res/WM-DETR?style=social)]()
 
-**Xiaofeng Han · Shunpeng Chen · Zhenghuang Fu · Zhe Feng · Lue Fan · Dong An · Zhangwei Wang · Li Guo · Weiliang Meng\* · Xiaopeng Zhang · Rongtao Xu\* · Shibiao Xu**
 
 </div>
 
