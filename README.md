@@ -17,19 +17,6 @@ This repository presents **WM-DETR**, a robust underwater object detection frame
 ![Alt Text](illustrates.png)
 ---
 
-# Visualization
-
-WM-DETR produces **more compact and target-aligned activations** than RT-DETR.
-
-Example comparisons include:
-
-- Attention heatmaps
-- Internal feature visualization
-- Haar frequency sub-band decomposition
-
-These visualizations demonstrate that WM-DETR **suppresses noisy background activations while enhancing true object responses**.
-
----
 
 # Datasets
 
