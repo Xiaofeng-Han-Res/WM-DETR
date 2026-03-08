@@ -60,4 +60,15 @@ train: images/train
 val: images/val
 nc: 5                                   # number of classes
 names: ['holothurian', 'boat', 'echinus', 'starfish', 'fish', 'corals', 'diver', 'cuttlefish', 'turtle', 'jellyfish']
+```
+
+### Pretrained Weights
+
+You can download the pretrained weight file **`rtdetr-r50.pt`** from Baidu Netdisk:
+
+- **File**: `rtdetr-r50.pt`
+- **Link**: [https://pan.baidu.com/s/1-yge3B-41eaUIiQOyxs0FQ](https://pan.baidu.com/s/1-yge3B-41eaUIiQOyxs0FQ)
+- **Extraction Code**: `PKGR`
+
+After downloading, please place the weight file in the appropriate directory before training or evaluation.
 
