@@ -76,6 +76,12 @@ After downloading, please place the weight file in the appropriate directory bef
 ```bash
 # Basic training command (using default configuration)
 python3 ./train.py
+```
+## 3. Model Validation
 
+```bash
+# Basic training command (using default configuration)
+python3 ./val.py
+```
 
 
