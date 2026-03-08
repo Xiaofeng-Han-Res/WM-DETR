@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 [![Last Commit](https://img.shields.io/badge/last%20commit-March%202026-yellowgreen)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-orange)]()
-[![Forks](https://img.shields.io/github/forks/yourname/WM-DETR?style=social)]()
+[![Forks](https://img.shields.io/github/forks/Xiaofeng-Han-Res/WM-DETR?style=social)]()
 
 **Xiaofeng Han · Shunpeng Chen · Zhenghuang Fu · Zhe Feng · Lue Fan · Dong An · Zhangwei Wang · Li Guo · Weiliang Meng\* · Xiaopeng Zhang · Rongtao Xu\* · Shibiao Xu**
 
