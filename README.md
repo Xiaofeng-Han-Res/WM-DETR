@@ -69,5 +69,11 @@ You can download the pretrained weight file **`rtdetr-r50.pt`** from Baidu Netdi
 - **Link**: [https://pan.baidu.com/s/1-yge3B-41eaUIiQOyxs0FQ](https://pan.baidu.com/s/1-yge3B-41eaUIiQOyxs0FQ)
 - **Extraction Code**: `PKGR`
 
+## 3. Model Training
+
+```bash
+# Basic training command (using default configuration)
+python3 ./train.py
+
 After downloading, please place the weight file in the appropriate directory before training or evaluation.
 
