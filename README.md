@@ -62,7 +62,7 @@ nc: 5                                   # number of classes
 names: ['holothurian', 'boat', 'echinus', 'starfish', 'fish', 'corals', 'diver', 'cuttlefish', 'turtle', 'jellyfish']
 ```
 
-### Pretrained Weights
+## 2、Pretrained Weights
 
 You can download the pretrained weight file **`rtdetr-r50.pt`** from Baidu Netdisk:
 
