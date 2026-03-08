@@ -17,15 +17,38 @@ This repository presents **WM-DETR**, a robust underwater object detection frame
 ![Alt Text](illustrates.png)
 ---
 
+# Quick Start
 
-# Datasets
+## 1. Dataset Preparation
 
-Experiments are conducted on two challenging underwater detection datasets:
+### Supported Datasets
 
-### DUO
-A widely used underwater object detection benchmark.
+- Primary benchmark: **DUO**
+- Additional benchmark: **RUOD**
 
-### RUOD
-A challenging dataset containing multiple underwater object categories and complex environments.
+### Dataset Structure
 
-Dataset structure:
+Please download and organize the datasets with the following structure:
+
+```text
+datasets/
+├── DUO/
+│   ├── images/
+│   │   ├── train/
+│   │   ├── val/
+│   │   └── test/
+│   └── labels/
+│       ├── train/
+│       ├── val/
+│       └── test/
+│
+└── RUOD/
+    ├── images/
+    │   ├── train/
+    │   ├── val/
+    │   └── test/
+    └── labels/
+        ├── train/
+        ├── val/
+        └── test/
+
