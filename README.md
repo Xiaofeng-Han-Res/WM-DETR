@@ -57,7 +57,7 @@ Use `datasets/data_RUOD.yaml` to configure the dataset path. An example is shown
 path: ./datasets/RUOD   # dataset root directory
 train: images/train
 val: images/val
-nc: 5                                   # number of classes
+nc: 10                                   # number of classes
 names: ['holothurian', 'boat', 'echinus', 'starfish', 'fish', 'corals', 'diver', 'cuttlefish', 'turtle', 'jellyfish']
 ```
 
