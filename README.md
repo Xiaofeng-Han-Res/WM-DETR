@@ -17,38 +17,6 @@ This repository presents **WM-DETR**, a robust underwater object detection frame
 ![Alt Text](illustrates.png)
 ---
 
-# Highlights
-
-- **Dual-Branch Wavelet-Mamba (DBWM)**  
-  Decomposes features into low-frequency and high-frequency components and applies Mamba-based modeling to capture global semantics and fine-grained details.
-
-- **Sparse-Adaptive Interaction Module (SAIM)**  
-  Combines adaptive sparse attention with spatially-aware feedforward operations to reduce redundancy while preserving small-object features.
-
-- **Robust Underwater Perception**  
-  Designed for challenging underwater environments with occlusion, blur, color distortion, and cluttered backgrounds.
-
----
-
-# Method Overview
-
-WM-DETR consists of two key modules:
-
-### 1. DBWM (Dual-Branch Wavelet-Mamba)
-
-- Applies **Haar wavelet decomposition** to split features into frequency sub-bands
-- **Global-Mamba branch** models long-range semantic dependencies
-- **Detail-Mamba branch** enhances fine structures and object boundaries
-- Adaptive fusion balances **noise suppression and detail preservation**
-
-### 2. SAIM (Sparse-Adaptive Interaction Module)
-
-- Introduces **adaptive sparse attention**
-- Integrates **spatially-aware feedforward operations**
-- Improves feature interaction efficiency while preserving weak target cues
-
----
-
 # Visualization
 
 WM-DETR produces **more compact and target-aligned activations** than RT-DETR.
