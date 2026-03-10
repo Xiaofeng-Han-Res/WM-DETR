@@ -10,7 +10,7 @@ if __name__ == '__main__':
     model.train(data='./datasets/data_RUOD.yaml', 
                 cache=False, 
                 imgsz=640, 
-                epochs=128, 
+                epochs=120, 
                 batch=64, # batch size workers=2, # Windows下出现莫名其妙卡主的情况可以尝试把workers设置为0 
                 seed=42, 
                 warmup_epochs=3, 
